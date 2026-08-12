@@ -45,11 +45,14 @@ Linting	ESLint
 └── vite.config.js
 ```
 **🚀 Getting Started**
+
 **Prerequisites**
 Node.js (v18 or higher recommended)
 npm
+
 **Installation**
 bash
+
 # clone the repo
 git clone <your-repo-url>
 cd FoodReactProject_1
@@ -67,6 +70,7 @@ bash
 npm run build      # production build
 npm run preview    # preview the production build
 npm run lint       # run ESLint
+
 **🗺️ Roadmap**
  Delete / edit food items
  Persist list with localStorage
