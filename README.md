@@ -72,7 +72,8 @@ npm run preview    # preview the production build
 npm run lint       # run ESLint
 ```
 **🗺️ Roadmap**
-``` Delete / edit food items
+```
+ Delete / edit food items
  Persist list with localStorage
  Input validation & error states
  Improved responsive styling
