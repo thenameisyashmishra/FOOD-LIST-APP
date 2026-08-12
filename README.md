@@ -15,6 +15,7 @@ This isn't a complex app, and that's kind of the point. It was built to actually
 🗂️ Graceful empty-state handling
 🧩 Modular, component-based architecture
 🎨 Styled with Bootstrap
+
 **🛠️ Tech Stack**
 Category	Tech
 Framework	React 19
