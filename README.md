@@ -11,9 +11,13 @@ This isn't a complex app, and that's kind of the point. It was built to actually
 **✨ Features**
 
 ➕ Add food items instantly via keyboard (press Enter)
+
 ⚡ Real-time list updates using useState
+
 🗂️ Graceful empty-state handling
+
 🧩 Modular, component-based architecture
+
 🎨 Styled with Bootstrap
 
 **🛠️ Tech Stack**
