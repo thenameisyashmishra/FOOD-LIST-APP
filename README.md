@@ -11,13 +11,9 @@ This isn't a complex app, and that's kind of the point. It was built to actually
 **✨ Features**
 
 ➕ Add food items instantly via keyboard (press Enter)
-
 ⚡ Real-time list updates using useState
-
 🗂️ Graceful empty-state handling
-
 🧩 Modular, component-based architecture
-
 🎨 Styled with Bootstrap
 
 **🛠️ Tech Stack**
@@ -76,6 +72,7 @@ npm run lint       # run ESLint
  Input validation & error states
  Improved responsive styling
  Search / filter food list
+
 **🤝 Contributing**
 
 This is primarily a learning project, but suggestions and PRs are always welcome. Feel free to open an issue if you spot something to improve.
