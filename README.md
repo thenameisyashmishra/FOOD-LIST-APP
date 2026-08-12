@@ -86,6 +86,10 @@ npm run lint       # run ESLint
 
 This is primarily a learning project, but suggestions and PRs are always welcome. Feel free to open an issue if you spot something to improve.
 
+**🙋‍♂️ Author**
+
+Yash Mishra 📧 your- yash07mishra05@gmail.com 🔗 LinkedIn- www.linkedin.com/in/yash-mishra-417128323 🔗 GitHub- https://github.com/thenameisyashmishra
+
 **📄 License**
 
 This project is open source and available under the MIT License.
