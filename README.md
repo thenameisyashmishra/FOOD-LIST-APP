@@ -61,7 +61,7 @@ cd FoodReactProject_1
 npm install
 
 # start the dev server
-npm run dev
+```npm run dev
 
 Then open http://localhost:5173 in your browser.
 
@@ -70,7 +70,7 @@ bash
 npm run build      # production build
 npm run preview    # preview the production build
 npm run lint       # run ESLint
-
+```
 **🗺️ Roadmap**
  Delete / edit food items
  Persist list with localStorage
