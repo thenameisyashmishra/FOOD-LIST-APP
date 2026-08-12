@@ -10,7 +10,7 @@ This isn't a complex app, and that's kind of the point. It was built to actually
 
 **🚀 Live Demo**
 
-food-list-app-delta.vercel.app
+https://food-list-app-delta.vercel.app
 
 **✨ Features**
 
