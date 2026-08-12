@@ -20,6 +20,7 @@ Framework	React 19
 Build Tool	Vite
 Styling	Bootstrap
 Linting	ESLint
+
 **📁 Project Structure**
 ```FoodReactProject_1/
 ├── public/
