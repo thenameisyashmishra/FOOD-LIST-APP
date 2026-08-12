@@ -9,6 +9,7 @@ Built with: React 19 · Vite · Bootstrap · ESLint
 This isn't a complex app, and that's kind of the point. It was built to actually understand React fundamentals rather than just read about them: state management, controlled inputs, event handling, and breaking a UI into small, reusable pieces.
 
 **✨ Features**
+
 ➕ Add food items instantly via keyboard (press Enter)
 ⚡ Real-time list updates using useState
 🗂️ Graceful empty-state handling
