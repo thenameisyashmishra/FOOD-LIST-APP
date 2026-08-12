@@ -17,6 +17,7 @@ This isn't a complex app, and that's kind of the point. It was built to actually
 🎨 Styled with Bootstrap
 
 **🛠️ Tech Stack**
+
 Category	Tech
 Framework	React 19
 Build Tool	Vite
