@@ -9,6 +9,7 @@ Built with: React 19 · Vite · Bootstrap · ESLint
 This isn't a complex app, and that's kind of the point. It was built to actually understand React fundamentals rather than just read about them: state management, controlled inputs, event handling, and breaking a UI into small, reusable pieces.
 
 **🚀 Live Demo**
+
 food-list-app-delta.vercel.app
 
 **✨ Features**
